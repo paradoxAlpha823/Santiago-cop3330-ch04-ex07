@@ -1,0 +1,3 @@
+C:/Users/Diego Santiago/CLionProjects/Santiago-cop-3330-ch4-ex7/cmake-build-debug/CMakeFiles/Santiago_cop_3330_ch4_ex7.dir
+C:/Users/Diego Santiago/CLionProjects/Santiago-cop-3330-ch4-ex7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Diego Santiago/CLionProjects/Santiago-cop-3330-ch4-ex7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,10 +1,9 @@
 #include <iostream>
 #include <sstream>
-#include <algorithm>
 using namespace std;
 
 int main() {
-    string operation;                                                                                                   // initialization
+    string operation;
     string n1="";
     string n2="";
     double out;
@@ -21,11 +20,7 @@ int main() {
     cout << "Enter an operation (+,-,*,/,plus,minus,mul,div) followed by two digits separated by a space: " << endl;
     cin >> operation >> n1 >> n2;
 
-    transform(operation.begin(),operation.end(),operation.begin(), ::tolower);                                          // put inputs to lowercase
-    transform(n1.begin(),n1.end(),n1.begin(), ::tolower);
-    transform(n2.begin(),n2.end(),n2.begin(), ::tolower);
-
-    while(i<10)                                                                                                         // converts strings to numbers
+    while(i<10)
     {
         if(numbers[i]==n1)
         {
@@ -51,7 +46,7 @@ int main() {
         }
     }
 
-    if(i!=823)                                                                                                          // If the number isnt written out, turns the string itself into an integer
+    if(i!=823)
     {
         ss << n1;
         ss >> nu1;

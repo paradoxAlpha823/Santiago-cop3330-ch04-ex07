@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\Diego Santiago\CLionProjects\Santiago-cop-3330-ch4-ex7 Select CMakeLists.txt

@@ -1,1 +1,4 @@
-CMakeLists.txt not found in C:\Users\Diego Santiago\CLionProjects\Santiago-cop-3330-ch4-ex7 Select CMakeLists.txt
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - NMake Makefiles" "C:\Users\Diego Santiago\CLionProjects\Santiago-cop-3330-ch4-ex7"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Diego Santiago/CLionProjects/Santiago-cop-3330-ch4-ex7/cmake-build-debug
